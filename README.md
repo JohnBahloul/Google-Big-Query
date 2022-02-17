@@ -1,5 +1,8 @@
 # Google Big Query - Batch Load CSV Files
 
+The following code demonstrates how to load csv files into a Google Cloud SQL database
+
+
 ## Intake
 
 
